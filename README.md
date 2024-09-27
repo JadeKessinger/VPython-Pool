@@ -2,14 +2,15 @@
 
 Created as a final project for CS 5 Black (Advanced) at Harvey Mudd College (Fall 2021).
 
-# Authors:
+## Authors:
 Jade Kessinger
 Sarah Lammert
 Rebecca Preis
 
-# Access our pool game at:
+## Access our pool game at:
 https://www.glowscript.org/#/user/rpreis/folder/MyPrograms/program/Pool12.8
 
+## Rules:
 Hi! Welcome to our game of pool! The rules are the same as normal pool.
 To rotate the cue, use the left and right arrows.
 To adjust the power of your hit, use the up and down arrows.
